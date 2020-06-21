@@ -1,0 +1,1 @@
+Press i to enter inline insert mode. Type the description at the very top, press esc to exit insert mode, then type :x! (now the cursor is at the bottom) and hit enter to save and exit. After writing commit message, just press Esc Button and then write :wq or :wq! and then Enter to close the unix file.
