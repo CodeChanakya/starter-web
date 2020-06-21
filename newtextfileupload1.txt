@@ -1,0 +1,6 @@
+30
+I had this argument recently saying Mac OS X was not UNIX, but Unix-like.
+
+I know there is a Single Unix Specification and those spec compliant could use the UNIX trade mark.
+
+Is Mac OS X a UNIX operating system or is it a Unix-like?
